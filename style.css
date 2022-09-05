@@ -1,0 +1,121 @@
+.btn {
+  margin-left: 300px;
+}
+a:hover {
+  color: blue;
+}
+.nav-link:hover {
+  color: rgb(122, 122, 235);
+}
+
+.headera {
+  height: 450px;
+}
+
+.sec1 {
+  background-image: url(./imgs/shape-a.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dive6 {
+  width: 70%;
+}
+.up {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background-color: blue;
+  cursor: pointer;
+  font-size: 25px;
+  border-radius: 5px;
+  padding: 5px;
+  display: none;
+  transition: 0.2;
+}
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 50px;
+  font-size: 18px;
+}
+#myBtn:hover {
+  background-color: #555;
+}
+.bgblue {
+  background-color: rgba(49, 49, 207, 0.705);
+  width: 450px;
+  border-radius: 10px;
+  padding-left: 20px;
+  margin-top: 100px;
+}
+.sec8 {
+  background-image: url(./imgs/shape-a.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.donts {
+  display: block;
+  width: 100px;
+  padding: 5px;
+}
+.dos {
+  display: block;
+  width: 100px;
+  padding: 5px;
+}
+.occordion:after {
+  content: "+";
+  float: right;
+  font-weight: bold;
+  color: #777;
+  cursor: pointer;
+  font-size: x-large;
+}
+.occordion:hover {
+  background-color: #ccc;
+}
+
+.activ:after {
+  content: "-";
+}
+.last-sec{
+  background-image: url(./imgs/shape-a.png) ;
+}
+.last-sec{
+  background-color:rgb(23, 23, 66);
+
+}
+.sp19{
+  color: rgb(52, 52, 112);
+  font-size: large;
+}
+.fa-corona {
+color: rgb(240, 90, 90);
+}
+.last-p{
+  color:rgb(163, 208, 245);
+}
+.Facebook{
+color: beige;
+background-color: rgb(60, 60, 247) ;
+
+}
+.Twitter{
+  background-color:rgb(50, 165, 211) ;
+}
+.instgram{
+  background-color:rgb(245, 52, 91) ;
+}
+
+.prgraph-3 p{
+  color:rgb(163, 208, 245);
+}
